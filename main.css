@@ -59,8 +59,8 @@ table > tbody > tr:nth-child(2) {
 
 .txtInput {
     border: 2px solid white;
-    border-radius: 15px;
-    padding: 0.1em 0.5em;
+    border-radius: 50%;
+    padding: 0.1em 0.75em;
 }
 
 @keyframes a-hover-1 {
